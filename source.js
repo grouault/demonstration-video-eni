@@ -1,7 +1,5 @@
-
-
 /*
- *
+ * Ajout commentaire
  */
 function hello(){
   console.log("Bonjour tout le monde");
