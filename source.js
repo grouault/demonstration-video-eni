@@ -7,6 +7,7 @@ function hello(){
   console.log("Bonjour Aurélie");
   console.log("Bonjour Maël");
   console.log("Bonjour Max");
+  console.log("Bonjour Anatole");
 
 }
 hello();
