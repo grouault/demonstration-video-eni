@@ -8,6 +8,7 @@ function hello(){
   console.log("Bonjour Maël");
   console.log("Bonjour Max");
   console.log("Bonjour Anatole");
+  console.log("Bonjour France");
 
 }
 hello();
